@@ -46,7 +46,6 @@
 
 - ✅ Самодельный адаптер на **FT232**
 - ✅ Кабель **VAG KKL** (409.1)
-- ✅ Любой другой USB-K-Line адаптер на базе FT232 / CP2102 / CH340
 
 ### Подключение к автомобилю
 
@@ -88,8 +87,8 @@ pip install pyserial
 ## 📥 Установка
 
 ```bash
-git clone https://github.com/vdd-pro/sorl-abs-diagnostic-tool.git
-cd sorl-abs-diagnostic-tool
+git clone https://github.com/dimapavlenko-code/SORL-ABS-Diagnose.git
+cd SORL-ABS-Diagnose
 pip install -r requirements.txt
 ```
 
